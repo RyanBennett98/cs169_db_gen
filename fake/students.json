@@ -1,0 +1,800 @@
+{
+  "id": "000",
+  "student_id": "65418113866",
+  "campus_id": "5289043955241620",
+  "name": "Gertude Cassin",
+  "email": "gertudecassin@berkeley.edu",
+  "phone": "(819) 125-8420"
+}
+{
+  "id": "001",
+  "student_id": "50586060259",
+  "campus_id": "1512075759278305",
+  "name": "Bertram Orn",
+  "email": "bertramorn@berkeley.edu",
+  "phone": "720-277-3464 x20328"
+}
+{
+  "id": "002",
+  "student_id": "50705213706",
+  "campus_id": "8814743567815148",
+  "name": "Edgar Feil",
+  "email": "edgarfeil@berkeley.edu",
+  "phone": "1-590-338-6745"
+}
+{
+  "id": "003",
+  "student_id": "94456701255",
+  "campus_id": "5015012050702443",
+  "name": "Charley Hills",
+  "email": "charleyhills@berkeley.edu",
+  "phone": "480.675.6454 x557"
+}
+{
+  "id": "004",
+  "student_id": "71354396605",
+  "campus_id": "3021957031946736",
+  "name": "An Zulauf",
+  "email": "anzulauf@berkeley.edu",
+  "phone": "774-111-0943 x048"
+}
+{
+  "id": "005",
+  "student_id": "75643060485",
+  "campus_id": "1844582191525378",
+  "name": "Jason Osinski",
+  "email": "jasonosinski@berkeley.edu",
+  "phone": "801-110-9716"
+}
+{
+  "id": "006",
+  "student_id": "54986037021",
+  "campus_id": "9341425454599501",
+  "name": "Dane Johnson",
+  "email": "danejohnson@berkeley.edu",
+  "phone": "301.267.3917"
+}
+{
+  "id": "007",
+  "student_id": "43438252430",
+  "campus_id": "9251737987077010",
+  "name": "Jamel Sporer",
+  "email": "jamelsporer@berkeley.edu",
+  "phone": "1-451-287-0646"
+}
+{
+  "id": "008",
+  "student_id": "26620535327",
+  "campus_id": "7212055944284061",
+  "name": "Jennine Jaskolski",
+  "email": "jenninejaskolski@berkeley.edu",
+  "phone": "767.495.0272 x77490"
+}
+{
+  "id": "009",
+  "student_id": "55245863028",
+  "campus_id": "7038471276565700",
+  "name": "Terina Cruickshank",
+  "email": "terinacruickshank@berkeley.edu",
+  "phone": "494-751-4164 x728"
+}
+{
+  "id": "010",
+  "student_id": "59290903085",
+  "campus_id": "4929763671451284",
+  "name": "Rebekah Dach",
+  "email": "rebekahdach@berkeley.edu",
+  "phone": "(287) 734-0127 x146"
+}
+{
+  "id": "011",
+  "student_id": "39733485998",
+  "campus_id": "4343312226988696",
+  "name": "Jerry Roob",
+  "email": "jerryroob@berkeley.edu",
+  "phone": "712.536.8037 x0487"
+}
+{
+  "id": "012",
+  "student_id": "53515939006",
+  "campus_id": "4875767221040801",
+  "name": "Milissa Sawayn",
+  "email": "milissasawayn@berkeley.edu",
+  "phone": "240-605-4975 x12066"
+}
+{
+  "id": "013",
+  "student_id": "85166957913",
+  "campus_id": "9294641007124246",
+  "name": "Goldie Stroman",
+  "email": "goldiestroman@berkeley.edu",
+  "phone": "959.090.6415 x6299"
+}
+{
+  "id": "014",
+  "student_id": "31180481954",
+  "campus_id": "1508998205239733",
+  "name": "Cammy Walker",
+  "email": "cammywalker@berkeley.edu",
+  "phone": "731.251.5051 x8907"
+}
+{
+  "id": "015",
+  "student_id": "19503847764",
+  "campus_id": "1783072852512220",
+  "name": "Leo Pfannerstill",
+  "email": "leopfannerstill@berkeley.edu",
+  "phone": "(324) 002-7650"
+}
+{
+  "id": "016",
+  "student_id": "26472018180",
+  "campus_id": "3106868903405257",
+  "name": "Carmen Schiller",
+  "email": "carmenschiller@berkeley.edu",
+  "phone": "(512) 221-1678 x2780"
+}
+{
+  "id": "017",
+  "student_id": "77123176563",
+  "campus_id": "8583030929585549",
+  "name": "Leia Kling",
+  "email": "leiakling@berkeley.edu",
+  "phone": "(598) 736-6401"
+}
+{
+  "id": "018",
+  "student_id": "83741755677",
+  "campus_id": "2835888546478144",
+  "name": "Troy Parker",
+  "email": "troyparker@berkeley.edu",
+  "phone": "665.580.7209"
+}
+{
+  "id": "019",
+  "student_id": "49565234854",
+  "campus_id": "1356826670789989",
+  "name": "Gene Pollich",
+  "email": "genepollich@berkeley.edu",
+  "phone": "1-340-749-1224"
+}
+{
+  "id": "020",
+  "student_id": "20104517115",
+  "campus_id": "2508078353559019",
+  "name": "Logan Kunze",
+  "email": "logankunze@berkeley.edu",
+  "phone": "(842) 232-3043"
+}
+{
+  "id": "021",
+  "student_id": "63679141945",
+  "campus_id": "5536080005686833",
+  "name": "Don Barrows",
+  "email": "donbarrows@berkeley.edu",
+  "phone": "(792) 830-0969"
+}
+{
+  "id": "022",
+  "student_id": "98255971379",
+  "campus_id": "4740142504594287",
+  "name": "Thea Trantow",
+  "email": "theatrantow@berkeley.edu",
+  "phone": "1-420-522-1004"
+}
+{
+  "id": "023",
+  "student_id": "13151664964",
+  "campus_id": "8848339391327065",
+  "name": "Drew Bartoletti",
+  "email": "drewbartoletti@berkeley.edu",
+  "phone": "700-829-8659 x567"
+}
+{
+  "id": "024",
+  "student_id": "53878432318",
+  "campus_id": "3616792594353628",
+  "name": "Karl Schimmel",
+  "email": "karlschimmel@berkeley.edu",
+  "phone": "1-555-570-8209 x55420"
+}
+{
+  "id": "025",
+  "student_id": "70943256527",
+  "campus_id": "3546914418666359",
+  "name": "Giuseppe Wiza",
+  "email": "giuseppewiza@berkeley.edu",
+  "phone": "(421) 444-0617 x32849"
+}
+{
+  "id": "026",
+  "student_id": "95373281853",
+  "campus_id": "8184521567835784",
+  "name": "Janae Harvey",
+  "email": "janaeharvey@berkeley.edu",
+  "phone": "1-879-432-3812"
+}
+{
+  "id": "027",
+  "student_id": "80680652870",
+  "campus_id": "3185540702073149",
+  "name": "Emilio O'Connell",
+  "email": "emiliooconnell@berkeley.edu",
+  "phone": "246-835-8604"
+}
+{
+  "id": "028",
+  "student_id": "92749109489",
+  "campus_id": "9635334915331566",
+  "name": "Alonzo Marks",
+  "email": "alonzomarks@berkeley.edu",
+  "phone": "(968) 827-8037"
+}
+{
+  "id": "029",
+  "student_id": "97706288893",
+  "campus_id": "9815543669919693",
+  "name": "Stacee Hodkiewicz",
+  "email": "staceehodkiewicz@berkeley.edu",
+  "phone": "624-027-2073 x72171"
+}
+{
+  "id": "030",
+  "student_id": "36384203107",
+  "campus_id": "1798001040082602",
+  "name": "Gisele Quitzon",
+  "email": "giselequitzon@berkeley.edu",
+  "phone": "1-872-168-1601 x44782"
+}
+{
+  "id": "031",
+  "student_id": "32786405983",
+  "campus_id": "4017600341745313",
+  "name": "Becky Vandervort",
+  "email": "beckyvandervort@berkeley.edu",
+  "phone": "219.022.4536 x24006"
+}
+{
+  "id": "032",
+  "student_id": "43753057850",
+  "campus_id": "1470912758348042",
+  "name": "Silas DuBuque",
+  "email": "silasdubuque@berkeley.edu",
+  "phone": "360.887.5912 x418"
+}
+{
+  "id": "033",
+  "student_id": "85824900166",
+  "campus_id": "7512145053033375",
+  "name": "Jefferey Bailey",
+  "email": "jeffereybailey@berkeley.edu",
+  "phone": "1-189-783-6321 x964"
+}
+{
+  "id": "034",
+  "student_id": "95905040778",
+  "campus_id": "8233133428043767",
+  "name": "Hortensia Jacobi",
+  "email": "hortensiajacobi@berkeley.edu",
+  "phone": "1-271-244-4645 x8096"
+}
+{
+  "id": "035",
+  "student_id": "73717727442",
+  "campus_id": "8586667061957780",
+  "name": "Jay Homenick",
+  "email": "jayhomenick@berkeley.edu",
+  "phone": "846.749.5483 x23574"
+}
+{
+  "id": "036",
+  "student_id": "66221516406",
+  "campus_id": "4620665640086542",
+  "name": "Alexander Wuckert",
+  "email": "alexanderwuckert@berkeley.edu",
+  "phone": "176.978.1556 x06921"
+}
+{
+  "id": "037",
+  "student_id": "37604653173",
+  "campus_id": "8562575891504225",
+  "name": "Quincy Herman",
+  "email": "quincyherman@berkeley.edu",
+  "phone": "558.432.1146 x5126"
+}
+{
+  "id": "038",
+  "student_id": "96787450439",
+  "campus_id": "3124183158959662",
+  "name": "Clair Larkin",
+  "email": "clairlarkin@berkeley.edu",
+  "phone": "509.374.8262 x1011"
+}
+{
+  "id": "039",
+  "student_id": "16339529827",
+  "campus_id": "7868030049803789",
+  "name": "Reggie Haley",
+  "email": "reggiehaley@berkeley.edu",
+  "phone": "556.881.3406 x5314"
+}
+{
+  "id": "040",
+  "student_id": "77914602246",
+  "campus_id": "5274288544608544",
+  "name": "Brant Kuhic",
+  "email": "brantkuhic@berkeley.edu",
+  "phone": "321.515.3039 x3754"
+}
+{
+  "id": "041",
+  "student_id": "66324127196",
+  "campus_id": "8578792132674905",
+  "name": "Jude Kilback",
+  "email": "judekilback@berkeley.edu",
+  "phone": "171-215-8594 x3293"
+}
+{
+  "id": "042",
+  "student_id": "29280259780",
+  "campus_id": "8228134970817058",
+  "name": "Mason Mohr",
+  "email": "masonmohr@berkeley.edu",
+  "phone": "595-144-7504 x5236"
+}
+{
+  "id": "043",
+  "student_id": "71616279730",
+  "campus_id": "6163661125606620",
+  "name": "Torie Dach",
+  "email": "toriedach@berkeley.edu",
+  "phone": "(574) 494-2938"
+}
+{
+  "id": "044",
+  "student_id": "56411429320",
+  "campus_id": "2096742152081826",
+  "name": "Michel Torp",
+  "email": "micheltorp@berkeley.edu",
+  "phone": "462.540.0385 x7921"
+}
+{
+  "id": "045",
+  "student_id": "23146821561",
+  "campus_id": "8623131971814454",
+  "name": "Fermin Bartoletti",
+  "email": "ferminbartoletti@berkeley.edu",
+  "phone": "462-460-3136"
+}
+{
+  "id": "046",
+  "student_id": "58151332667",
+  "campus_id": "7759510268610675",
+  "name": "Candyce Wisozk",
+  "email": "candycewisozk@berkeley.edu",
+  "phone": "812-174-3112 x3948"
+}
+{
+  "id": "047",
+  "student_id": "69915311563",
+  "campus_id": "1716020345289705",
+  "name": "Conchita Prosacco",
+  "email": "conchitaprosacco@berkeley.edu",
+  "phone": "398.013.8725 x4847"
+}
+{
+  "id": "048",
+  "student_id": "91723548165",
+  "campus_id": "8240157222142447",
+  "name": "Rudolph Rogahn",
+  "email": "rudolphrogahn@berkeley.edu",
+  "phone": "781.105.3999"
+}
+{
+  "id": "049",
+  "student_id": "19269875185",
+  "campus_id": "8788899083376611",
+  "name": "Elroy Reinger",
+  "email": "elroyreinger@berkeley.edu",
+  "phone": "796-324-3583 x607"
+}
+{
+  "id": "050",
+  "student_id": "67589774365",
+  "campus_id": "3207326372892912",
+  "name": "Shonna Ernser",
+  "email": "shonnaernser@berkeley.edu",
+  "phone": "604.529.0469 x30078"
+}
+{
+  "id": "051",
+  "student_id": "75095727822",
+  "campus_id": "6878661453038555",
+  "name": "Micheal Lang",
+  "email": "micheallang@berkeley.edu",
+  "phone": "775.805.5754 x985"
+}
+{
+  "id": "052",
+  "student_id": "11027237115",
+  "campus_id": "1667669002058662",
+  "name": "Tiara Smitham",
+  "email": "tiarasmitham@berkeley.edu",
+  "phone": "(747) 372-9624 x616"
+}
+{
+  "id": "053",
+  "student_id": "91565850965",
+  "campus_id": "2270493249890018",
+  "name": "Sheldon Durgan",
+  "email": "sheldondurgan@berkeley.edu",
+  "phone": "(101) 270-5630 x72538"
+}
+{
+  "id": "054",
+  "student_id": "78772351068",
+  "campus_id": "4608199914626465",
+  "name": "Conception Towne",
+  "email": "conceptiontowne@berkeley.edu",
+  "phone": "110.095.4435"
+}
+{
+  "id": "055",
+  "student_id": "43036390186",
+  "campus_id": "7761087509346279",
+  "name": "Sherwood Reynolds",
+  "email": "sherwoodreynolds@berkeley.edu",
+  "phone": "781-982-8453"
+}
+{
+  "id": "056",
+  "student_id": "31899401250",
+  "campus_id": "4313242136223275",
+  "name": "Brant Durgan",
+  "email": "brantdurgan@berkeley.edu",
+  "phone": "588-809-9898 x521"
+}
+{
+  "id": "057",
+  "student_id": "55561017291",
+  "campus_id": "7648073804641187",
+  "name": "Kiesha White",
+  "email": "kieshawhite@berkeley.edu",
+  "phone": "(845) 229-8357 x5781"
+}
+{
+  "id": "058",
+  "student_id": "61647086285",
+  "campus_id": "9674995484859871",
+  "name": "Eric Cartwright",
+  "email": "ericcartwright@berkeley.edu",
+  "phone": "434.143.9929"
+}
+{
+  "id": "059",
+  "student_id": "78429993642",
+  "campus_id": "8102614548854933",
+  "name": "Johnathan Cormier",
+  "email": "johnathancormier@berkeley.edu",
+  "phone": "1-642-754-3739"
+}
+{
+  "id": "060",
+  "student_id": "49497247073",
+  "campus_id": "9077421538191831",
+  "name": "Cindy Russel",
+  "email": "cindyrussel@berkeley.edu",
+  "phone": "269.806.6180"
+}
+{
+  "id": "061",
+  "student_id": "73224251029",
+  "campus_id": "5350415496294922",
+  "name": "Sherman Buckridge",
+  "email": "shermanbuckridge@berkeley.edu",
+  "phone": "(434) 948-7740"
+}
+{
+  "id": "062",
+  "student_id": "47957357620",
+  "campus_id": "7978487702783591",
+  "name": "Rosalva Medhurst",
+  "email": "rosalvamedhurst@berkeley.edu",
+  "phone": "903.889.7327 x9589"
+}
+{
+  "id": "063",
+  "student_id": "18227275869",
+  "campus_id": "4601960715828624",
+  "name": "Arnold Schmidt",
+  "email": "arnoldschmidt@berkeley.edu",
+  "phone": "(433) 580-5028"
+}
+{
+  "id": "064",
+  "student_id": "92845222748",
+  "campus_id": "6140564993326312",
+  "name": "Wendell Collier",
+  "email": "wendellcollier@berkeley.edu",
+  "phone": "478.264.2850"
+}
+{
+  "id": "065",
+  "student_id": "86458093466",
+  "campus_id": "4602976480516864",
+  "name": "Margery Walter",
+  "email": "margerywalter@berkeley.edu",
+  "phone": "1-366-105-6316 x208"
+}
+{
+  "id": "066",
+  "student_id": "98646782801",
+  "campus_id": "2540134197071811",
+  "name": "Verda Homenick",
+  "email": "verdahomenick@berkeley.edu",
+  "phone": "919-262-4356 x723"
+}
+{
+  "id": "067",
+  "student_id": "22711266676",
+  "campus_id": "9883153202909695",
+  "name": "Sharen O'Kon",
+  "email": "sharenokon@berkeley.edu",
+  "phone": "782-683-2619"
+}
+{
+  "id": "068",
+  "student_id": "37471388142",
+  "campus_id": "4808045161342617",
+  "name": "Camila Pfeffer",
+  "email": "camilapfeffer@berkeley.edu",
+  "phone": "431-899-3385 x6687"
+}
+{
+  "id": "069",
+  "student_id": "81555046889",
+  "campus_id": "2819911153376453",
+  "name": "Noah Kunze",
+  "email": "noahkunze@berkeley.edu",
+  "phone": "347-141-1920"
+}
+{
+  "id": "070",
+  "student_id": "86758181439",
+  "campus_id": "6563453390392650",
+  "name": "Annett Herman",
+  "email": "annettherman@berkeley.edu",
+  "phone": "(423) 142-4715 x89017"
+}
+{
+  "id": "071",
+  "student_id": "58191161454",
+  "campus_id": "4401540320183381",
+  "name": "Arnulfo Hintz",
+  "email": "arnulfohintz@berkeley.edu",
+  "phone": "795.036.1479 x937"
+}
+{
+  "id": "072",
+  "student_id": "50550089847",
+  "campus_id": "7304785440426452",
+  "name": "Leonore Lueilwitz",
+  "email": "leonorelueilwitz@berkeley.edu",
+  "phone": "1-722-846-8150 x7112"
+}
+{
+  "id": "073",
+  "student_id": "18547470657",
+  "campus_id": "1765116031466483",
+  "name": "Elias Spencer",
+  "email": "eliasspencer@berkeley.edu",
+  "phone": "(524) 235-1908"
+}
+{
+  "id": "074",
+  "student_id": "10136032129",
+  "campus_id": "2779187206612923",
+  "name": "Nolan Schimmel",
+  "email": "nolanschimmel@berkeley.edu",
+  "phone": "948-495-2151"
+}
+{
+  "id": "075",
+  "student_id": "73689838795",
+  "campus_id": "5535427429893632",
+  "name": "Derick Paucek",
+  "email": "derickpaucek@berkeley.edu",
+  "phone": "439.343.6248 x29008"
+}
+{
+  "id": "076",
+  "student_id": "29876510744",
+  "campus_id": "6746988557342278",
+  "name": "Eldon Erdman",
+  "email": "eldonerdman@berkeley.edu",
+  "phone": "666-890-6218 x6000"
+}
+{
+  "id": "077",
+  "student_id": "25946937345",
+  "campus_id": "9406498346559243",
+  "name": "Burton Greenfelder",
+  "email": "burtongreenfelder@berkeley.edu",
+  "phone": "306.083.7508 x65287"
+}
+{
+  "id": "078",
+  "student_id": "58563502300",
+  "campus_id": "3855861905084549",
+  "name": "Rolf Reilly",
+  "email": "rolfreilly@berkeley.edu",
+  "phone": "(771) 829-8419"
+}
+{
+  "id": "079",
+  "student_id": "34447086856",
+  "campus_id": "5788196176014180",
+  "name": "Elmer O'Reilly",
+  "email": "elmeroreilly@berkeley.edu",
+  "phone": "259.627.4955"
+}
+{
+  "id": "080",
+  "student_id": "43572866848",
+  "campus_id": "5195325547759095",
+  "name": "Terry Osinski",
+  "email": "terryosinski@berkeley.edu",
+  "phone": "860.528.2156 x9324"
+}
+{
+  "id": "081",
+  "student_id": "74557110002",
+  "campus_id": "6860782576888412",
+  "name": "Corrie Turner",
+  "email": "corrieturner@berkeley.edu",
+  "phone": "688.294.1012 x9068"
+}
+{
+  "id": "082",
+  "student_id": "80939970757",
+  "campus_id": "1987181787186623",
+  "name": "Burton Von",
+  "email": "burtonvon@berkeley.edu",
+  "phone": "173-448-4215 x40032"
+}
+{
+  "id": "083",
+  "student_id": "52751001659",
+  "campus_id": "1467730480353105",
+  "name": "Jeff Morissette",
+  "email": "jeffmorissette@berkeley.edu",
+  "phone": "1-517-158-8074 x260"
+}
+{
+  "id": "084",
+  "student_id": "66926736151",
+  "campus_id": "6241566714512149",
+  "name": "Lavern McClure",
+  "email": "lavernmcclure@berkeley.edu",
+  "phone": "396-357-4333 x2256"
+}
+{
+  "id": "085",
+  "student_id": "22944716904",
+  "campus_id": "6295821009830495",
+  "name": "Hunter Streich",
+  "email": "hunterstreich@berkeley.edu",
+  "phone": "384.558.2750 x45854"
+}
+{
+  "id": "086",
+  "student_id": "90718885101",
+  "campus_id": "5462729053100763",
+  "name": "Raye Champlin",
+  "email": "rayechamplin@berkeley.edu",
+  "phone": "(261) 367-1002"
+}
+{
+  "id": "087",
+  "student_id": "71990489903",
+  "campus_id": "4914684813945737",
+  "name": "Florencia Ledner",
+  "email": "florencialedner@berkeley.edu",
+  "phone": "466-042-8673 x18912"
+}
+{
+  "id": "088",
+  "student_id": "23228995859",
+  "campus_id": "3002627774213363",
+  "name": "Emmitt Nicolas",
+  "email": "emmittnicolas@berkeley.edu",
+  "phone": "524-078-5676"
+}
+{
+  "id": "089",
+  "student_id": "57839253474",
+  "campus_id": "5438698600547664",
+  "name": "Giselle O'Kon",
+  "email": "giselleokon@berkeley.edu",
+  "phone": "(665) 407-1911 x67157"
+}
+{
+  "id": "090",
+  "student_id": "11137116645",
+  "campus_id": "7670433951480391",
+  "name": "Dawne Schowalter",
+  "email": "dawneschowalter@berkeley.edu",
+  "phone": "1-439-229-5555 x72893"
+}
+{
+  "id": "091",
+  "student_id": "29183150172",
+  "campus_id": "5516682643203975",
+  "name": "Ezra Towne",
+  "email": "ezratowne@berkeley.edu",
+  "phone": "102-576-8688 x325"
+}
+{
+  "id": "092",
+  "student_id": "73619140693",
+  "campus_id": "5282784739279531",
+  "name": "Emile Flatley",
+  "email": "emileflatley@berkeley.edu",
+  "phone": "1-115-541-0731"
+}
+{
+  "id": "093",
+  "student_id": "51934361960",
+  "campus_id": "5938618123026630",
+  "name": "Julio Hagenes",
+  "email": "juliohagenes@berkeley.edu",
+  "phone": "1-800-907-7243 x410"
+}
+{
+  "id": "094",
+  "student_id": "73436900083",
+  "campus_id": "3106526640921544",
+  "name": "Phoebe Abbott",
+  "email": "phoebeabbott@berkeley.edu",
+  "phone": "(818) 093-2550 x5804"
+}
+{
+  "id": "095",
+  "student_id": "93782189599",
+  "campus_id": "6602608040395310",
+  "name": "Latricia Effertz",
+  "email": "latriciaeffertz@berkeley.edu",
+  "phone": "526-413-9325 x4694"
+}
+{
+  "id": "096",
+  "student_id": "59637923622",
+  "campus_id": "8415828173830306",
+  "name": "Marissa Witting",
+  "email": "marissawitting@berkeley.edu",
+  "phone": "(685) 421-4722"
+}
+{
+  "id": "097",
+  "student_id": "17896270459",
+  "campus_id": "9126659296464820",
+  "name": "Francina Cruickshank",
+  "email": "francinacruickshank@berkeley.edu",
+  "phone": "(908) 338-2107"
+}
+{
+  "id": "098",
+  "student_id": "23779328177",
+  "campus_id": "6055135942084852",
+  "name": "Consuela Langworth",
+  "email": "consuelalangworth@berkeley.edu",
+  "phone": "655-287-9182"
+}
+{
+  "id": "099",
+  "student_id": "83186748841",
+  "campus_id": "1624868973979190",
+  "name": "Chadwick Crona",
+  "email": "chadwickcrona@berkeley.edu",
+  "phone": "1-295-202-2238"
+}
