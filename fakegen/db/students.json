@@ -1,0 +1,702 @@
+{
+{
+  "student_id": "57613149473",
+  "campus_id": "8827923270182692",
+  "name": "Felton Donnelly",
+  "email": "feltondonnelly@berkeley.edu",
+  "phone": "589-581-2635 x68985"
+},
+{
+  "student_id": "94499634134",
+  "campus_id": "6318003266050556",
+  "name": "Kathlyn Davis",
+  "email": "kathlyndavis@berkeley.edu",
+  "phone": "752.697.4916"
+},
+{
+  "student_id": "29460533802",
+  "campus_id": "9355851330921934",
+  "name": "Adolph Braun",
+  "email": "adolphbraun@berkeley.edu",
+  "phone": "302-175-1946 x15333"
+},
+{
+  "student_id": "29882815025",
+  "campus_id": "9002503904263724",
+  "name": "Shannon D'Amore",
+  "email": "shannondamore@berkeley.edu",
+  "phone": "(298) 948-5063 x8303"
+},
+{
+  "student_id": "42806697289",
+  "campus_id": "8320527438050686",
+  "name": "Cedric Sporer",
+  "email": "cedricsporer@berkeley.edu",
+  "phone": "1-526-331-9798 x1012"
+},
+{
+  "student_id": "22234913855",
+  "campus_id": "9603023015410665",
+  "name": "Carl Cummings",
+  "email": "carlcummings@berkeley.edu",
+  "phone": "(544) 165-6583 x147"
+},
+{
+  "student_id": "51659631862",
+  "campus_id": "3644588322147749",
+  "name": "Yen Wisoky",
+  "email": "yenwisoky@berkeley.edu",
+  "phone": "328.794.9632"
+},
+{
+  "student_id": "31849771117",
+  "campus_id": "9439779327085955",
+  "name": "Estela Moore",
+  "email": "estelamoore@berkeley.edu",
+  "phone": "(895) 358-5407 x3550"
+},
+{
+  "student_id": "95681877421",
+  "campus_id": "2759437803325658",
+  "name": "Brice McKenzie",
+  "email": "bricemckenzie@berkeley.edu",
+  "phone": "650-973-1461 x0662"
+},
+{
+  "student_id": "18149243938",
+  "campus_id": "3654374404653909",
+  "name": "Devin Greenfelder",
+  "email": "devingreenfelder@berkeley.edu",
+  "phone": "(939) 737-1720 x436"
+},
+{
+  "student_id": "52607443393",
+  "campus_id": "7076440081031783",
+  "name": "Ty Dicki",
+  "email": "tydicki@berkeley.edu",
+  "phone": "701.270.8289 x6578"
+},
+{
+  "student_id": "50553126318",
+  "campus_id": "8192172364965517",
+  "name": "Miesha Kilback",
+  "email": "mieshakilback@berkeley.edu",
+  "phone": "(771) 422-9143 x550"
+},
+{
+  "student_id": "64127281252",
+  "campus_id": "1428622913145533",
+  "name": "Edison Langosh",
+  "email": "edisonlangosh@berkeley.edu",
+  "phone": "(394) 111-0557 x02320"
+},
+{
+  "student_id": "36730477807",
+  "campus_id": "1443544163677846",
+  "name": "Tierra Roberts",
+  "email": "tierraroberts@berkeley.edu",
+  "phone": "162-706-8041"
+},
+{
+  "student_id": "40430697307",
+  "campus_id": "8884956536429712",
+  "name": "Katia Ritchie",
+  "email": "katiaritchie@berkeley.edu",
+  "phone": "(698) 333-2469"
+},
+{
+  "student_id": "53870160475",
+  "campus_id": "2489972730896274",
+  "name": "Maurice Stiedemann",
+  "email": "mauricestiedemann@berkeley.edu",
+  "phone": "881.131.7030 x3318"
+},
+{
+  "student_id": "67818249903",
+  "campus_id": "8649702816238620",
+  "name": "Christina Marvin",
+  "email": "christinamarvin@berkeley.edu",
+  "phone": "189-604-8463"
+},
+{
+  "student_id": "30893885077",
+  "campus_id": "7500395211256532",
+  "name": "Yong Becker",
+  "email": "yongbecker@berkeley.edu",
+  "phone": "(563) 697-1386 x94284"
+},
+{
+  "student_id": "34848464633",
+  "campus_id": "5827347252103790",
+  "name": "Bradford Stiedemann",
+  "email": "bradfordstiedemann@berkeley.edu",
+  "phone": "1-437-741-2711 x2589"
+},
+{
+  "student_id": "92914856085",
+  "campus_id": "7221585560335932",
+  "name": "Codi Schmidt",
+  "email": "codischmidt@berkeley.edu",
+  "phone": "802-782-8017 x57120"
+},
+{
+  "student_id": "47343400412",
+  "campus_id": "5873891600614738",
+  "name": "Libbie Barrows",
+  "email": "libbiebarrows@berkeley.edu",
+  "phone": "(225) 885-5886 x6026"
+},
+{
+  "student_id": "68307075876",
+  "campus_id": "2334462331243986",
+  "name": "Laurene Hagenes",
+  "email": "laurenehagenes@berkeley.edu",
+  "phone": "211-344-3311"
+},
+{
+  "student_id": "63043978070",
+  "campus_id": "5807334992126215",
+  "name": "Stan Ernser",
+  "email": "stanernser@berkeley.edu",
+  "phone": "978-380-5882 x85123"
+},
+{
+  "student_id": "87909216478",
+  "campus_id": "6648503902283109",
+  "name": "Hugh Wyman",
+  "email": "hughwyman@berkeley.edu",
+  "phone": "137.686.9210 x969"
+},
+{
+  "student_id": "86548566486",
+  "campus_id": "1229771032012678",
+  "name": "Clyde Boyle",
+  "email": "clydeboyle@berkeley.edu",
+  "phone": "(714) 545-1342"
+},
+{
+  "student_id": "36756202599",
+  "campus_id": "5396995426449987",
+  "name": "Dwight Crist",
+  "email": "dwightcrist@berkeley.edu",
+  "phone": "498.538.5106 x5361"
+},
+{
+  "student_id": "54636121608",
+  "campus_id": "2814559148870337",
+  "name": "Juan Jacobson",
+  "email": "juanjacobson@berkeley.edu",
+  "phone": "840-924-4861"
+},
+{
+  "student_id": "14121917276",
+  "campus_id": "2601220144227515",
+  "name": "Trinidad Koch",
+  "email": "trinidadkoch@berkeley.edu",
+  "phone": "948.776.3227"
+},
+{
+  "student_id": "59465655688",
+  "campus_id": "4834842872158811",
+  "name": "Lawana Funk",
+  "email": "lawanafunk@berkeley.edu",
+  "phone": "826-816-9108 x0371"
+},
+{
+  "student_id": "76168973629",
+  "campus_id": "1506258176850381",
+  "name": "Vida Raynor",
+  "email": "vidaraynor@berkeley.edu",
+  "phone": "1-149-414-5002"
+},
+{
+  "student_id": "25494713813",
+  "campus_id": "8328174579887527",
+  "name": "Mariano Effertz",
+  "email": "marianoeffertz@berkeley.edu",
+  "phone": "1-832-306-3234 x0540"
+},
+{
+  "student_id": "44262729729",
+  "campus_id": "4422437442825810",
+  "name": "Karissa Rippin",
+  "email": "karissarippin@berkeley.edu",
+  "phone": "202-310-7430"
+},
+{
+  "student_id": "81921404877",
+  "campus_id": "5623764810487948",
+  "name": "Stevie Bailey",
+  "email": "steviebailey@berkeley.edu",
+  "phone": "370-143-2650 x986"
+},
+{
+  "student_id": "72346637794",
+  "campus_id": "4246901805594916",
+  "name": "Jesus Gottlieb",
+  "email": "jesusgottlieb@berkeley.edu",
+  "phone": "1-372-238-4240 x161"
+},
+{
+  "student_id": "89003505374",
+  "campus_id": "7690851635565914",
+  "name": "Lorena Lindgren",
+  "email": "lorenalindgren@berkeley.edu",
+  "phone": "401-547-6633 x62509"
+},
+{
+  "student_id": "19787206525",
+  "campus_id": "4390810718067172",
+  "name": "Shayne Williamson",
+  "email": "shaynewilliamson@berkeley.edu",
+  "phone": "1-435-670-8123"
+},
+{
+  "student_id": "92948621009",
+  "campus_id": "6517911281085801",
+  "name": "Deetta Hagenes",
+  "email": "deettahagenes@berkeley.edu",
+  "phone": "(946) 113-1251 x94295"
+},
+{
+  "student_id": "26058263204",
+  "campus_id": "7683891121914664",
+  "name": "Lauren Schaefer",
+  "email": "laurenschaefer@berkeley.edu",
+  "phone": "1-593-942-5796 x24665"
+},
+{
+  "student_id": "60153919573",
+  "campus_id": "4734631506313795",
+  "name": "Nieves Kihn",
+  "email": "nieveskihn@berkeley.edu",
+  "phone": "344.839.3712 x9449"
+},
+{
+  "student_id": "97661777820",
+  "campus_id": "3243074040680562",
+  "name": "Kirby Harvey",
+  "email": "kirbyharvey@berkeley.edu",
+  "phone": "578.954.6686"
+},
+{
+  "student_id": "92512915495",
+  "campus_id": "4077280101702231",
+  "name": "Wendi Russel",
+  "email": "wendirussel@berkeley.edu",
+  "phone": "(125) 214-6571"
+},
+{
+  "student_id": "56746077432",
+  "campus_id": "6643593443000127",
+  "name": "Vernita Schultz",
+  "email": "vernitaschultz@berkeley.edu",
+  "phone": "368.475.2262 x09069"
+},
+{
+  "student_id": "83849086302",
+  "campus_id": "2746538305090273",
+  "name": "Theodore Cormier",
+  "email": "theodorecormier@berkeley.edu",
+  "phone": "1-299-255-6957 x8817"
+},
+{
+  "student_id": "95010662602",
+  "campus_id": "7948402925561222",
+  "name": "Ione Gibson",
+  "email": "ionegibson@berkeley.edu",
+  "phone": "169-664-9637"
+},
+{
+  "student_id": "95026898407",
+  "campus_id": "2281980943449719",
+  "name": "Steve Daugherty",
+  "email": "stevedaugherty@berkeley.edu",
+  "phone": "222.886.0697 x8769"
+},
+{
+  "student_id": "27574734116",
+  "campus_id": "2424493643472413",
+  "name": "Mandy Jakubowski",
+  "email": "mandyjakubowski@berkeley.edu",
+  "phone": "324.702.5279"
+},
+{
+  "student_id": "15524186219",
+  "campus_id": "2038710682624515",
+  "name": "Louis Effertz",
+  "email": "louiseffertz@berkeley.edu",
+  "phone": "884-738-6866 x7112"
+},
+{
+  "student_id": "12282946580",
+  "campus_id": "5989404850168805",
+  "name": "Spencer Langosh",
+  "email": "spencerlangosh@berkeley.edu",
+  "phone": "1-100-726-2494"
+},
+{
+  "student_id": "49588188376",
+  "campus_id": "2306228101348853",
+  "name": "Leonard Russel",
+  "email": "leonardrussel@berkeley.edu",
+  "phone": "240-852-0354 x647"
+},
+{
+  "student_id": "58228635179",
+  "campus_id": "5466435204252491",
+  "name": "Cathryn Wisoky",
+  "email": "cathrynwisoky@berkeley.edu",
+  "phone": "754.218.0497"
+},
+{
+  "student_id": "17729263883",
+  "campus_id": "3721539284839778",
+  "name": "Catarina Lowe",
+  "email": "catarinalowe@berkeley.edu",
+  "phone": "(152) 041-2754 x070"
+},
+{
+  "student_id": "67339887092",
+  "campus_id": "9694117071207505",
+  "name": "Vertie Connelly",
+  "email": "vertieconnelly@berkeley.edu",
+  "phone": "845-783-8337 x55875"
+},
+{
+  "student_id": "34833263370",
+  "campus_id": "2857366623848347",
+  "name": "Jacquelynn Turcotte",
+  "email": "jacquelynnturcotte@berkeley.edu",
+  "phone": "1-747-218-9787 x0256"
+},
+{
+  "student_id": "16168006641",
+  "campus_id": "6152184080299490",
+  "name": "Yvette Nicolas",
+  "email": "yvettenicolas@berkeley.edu",
+  "phone": "1-665-333-5433"
+},
+{
+  "student_id": "99492606569",
+  "campus_id": "7750684704088792",
+  "name": "Muriel Sipes",
+  "email": "murielsipes@berkeley.edu",
+  "phone": "(418) 183-2348 x1087"
+},
+{
+  "student_id": "22474326194",
+  "campus_id": "1535144447222795",
+  "name": "Tierra Spinka",
+  "email": "tierraspinka@berkeley.edu",
+  "phone": "180.368.9316"
+},
+{
+  "student_id": "67065604321",
+  "campus_id": "6684276393775665",
+  "name": "Leonard Larkin",
+  "email": "leonardlarkin@berkeley.edu",
+  "phone": "712.627.2104"
+},
+{
+  "student_id": "16045650983",
+  "campus_id": "7777729526648929",
+  "name": "Marlon Fritsch",
+  "email": "marlonfritsch@berkeley.edu",
+  "phone": "204.440.0164 x7393"
+},
+{
+  "student_id": "75349705482",
+  "campus_id": "2560947266386067",
+  "name": "Rodrigo Olson",
+  "email": "rodrigoolson@berkeley.edu",
+  "phone": "941-590-2422"
+},
+{
+  "student_id": "44266869171",
+  "campus_id": "4523045749137776",
+  "name": "Josiah Hodkiewicz",
+  "email": "josiahhodkiewicz@berkeley.edu",
+  "phone": "854.377.3759 x044"
+},
+{
+  "student_id": "92905466912",
+  "campus_id": "6038280955982123",
+  "name": "Santos Schaden",
+  "email": "santosschaden@berkeley.edu",
+  "phone": "(140) 121-0972 x7713"
+},
+{
+  "student_id": "54937708400",
+  "campus_id": "6930888752172314",
+  "name": "Lawerence Stiedemann",
+  "email": "lawerencestiedemann@berkeley.edu",
+  "phone": "(996) 359-7931"
+},
+{
+  "student_id": "16687176280",
+  "campus_id": "3277654733316000",
+  "name": "Glendora Hoppe",
+  "email": "glendorahoppe@berkeley.edu",
+  "phone": "983.843.4582 x5193"
+},
+{
+  "student_id": "13383557183",
+  "campus_id": "5225969973984053",
+  "name": "Stormy Altenwerth",
+  "email": "stormyaltenwerth@berkeley.edu",
+  "phone": "453-711-8102 x51850"
+},
+{
+  "student_id": "96971506048",
+  "campus_id": "1607297620861029",
+  "name": "Hilton Bauch",
+  "email": "hiltonbauch@berkeley.edu",
+  "phone": "1-515-176-2541 x88447"
+},
+{
+  "student_id": "95677790907",
+  "campus_id": "7190612509380934",
+  "name": "Dianna Sawayn",
+  "email": "diannasawayn@berkeley.edu",
+  "phone": "(311) 668-0735"
+},
+{
+  "student_id": "18557583854",
+  "campus_id": "6361352951929450",
+  "name": "Juliann Mayer",
+  "email": "juliannmayer@berkeley.edu",
+  "phone": "1-609-136-0615 x1619"
+},
+{
+  "student_id": "62463885636",
+  "campus_id": "2691845331632136",
+  "name": "Gil Haley",
+  "email": "gilhaley@berkeley.edu",
+  "phone": "759.714.8486 x30525"
+},
+{
+  "student_id": "37067462335",
+  "campus_id": "1261832591944769",
+  "name": "Kenton Feest",
+  "email": "kentonfeest@berkeley.edu",
+  "phone": "1-945-665-0748"
+},
+{
+  "student_id": "12576748614",
+  "campus_id": "6303749467292305",
+  "name": "Stacey Jakubowski",
+  "email": "staceyjakubowski@berkeley.edu",
+  "phone": "1-536-934-1301"
+},
+{
+  "student_id": "62139040262",
+  "campus_id": "2504655530467859",
+  "name": "Leif Wilkinson",
+  "email": "leifwilkinson@berkeley.edu",
+  "phone": "1-223-463-6930 x243"
+},
+{
+  "student_id": "51751008998",
+  "campus_id": "2268706911011459",
+  "name": "Karl Herzog",
+  "email": "karlherzog@berkeley.edu",
+  "phone": "(771) 636-8352 x4308"
+},
+{
+  "student_id": "56365638930",
+  "campus_id": "2336726417692410",
+  "name": "Christine Graham",
+  "email": "christinegraham@berkeley.edu",
+  "phone": "1-663-304-9485"
+},
+{
+  "student_id": "53516545595",
+  "campus_id": "7853794883355105",
+  "name": "Justin Torphy",
+  "email": "justintorphy@berkeley.edu",
+  "phone": "272.091.4918 x9104"
+},
+{
+  "student_id": "75416462486",
+  "campus_id": "3966384230356931",
+  "name": "Mercedes Robel",
+  "email": "mercedesrobel@berkeley.edu",
+  "phone": "114.599.5372 x23398"
+},
+{
+  "student_id": "60717411696",
+  "campus_id": "9206794586040814",
+  "name": "Byron Howell",
+  "email": "byronhowell@berkeley.edu",
+  "phone": "523.675.6582"
+},
+{
+  "student_id": "41178804135",
+  "campus_id": "2282996820952213",
+  "name": "Lashandra Bailey",
+  "email": "lashandrabailey@berkeley.edu",
+  "phone": "220.954.7868 x1749"
+},
+{
+  "student_id": "34774414520",
+  "campus_id": "1886501446660760",
+  "name": "Robt Mosciski",
+  "email": "robtmosciski@berkeley.edu",
+  "phone": "(111) 734-1838"
+},
+{
+  "student_id": "82377400221",
+  "campus_id": "3258762189010128",
+  "name": "Toni Connelly",
+  "email": "toniconnelly@berkeley.edu",
+  "phone": "132.996.9717 x01270"
+},
+{
+  "student_id": "77630248768",
+  "campus_id": "9359759867309141",
+  "name": "Maryjane Mante",
+  "email": "maryjanemante@berkeley.edu",
+  "phone": "(285) 536-3112"
+},
+{
+  "student_id": "50590290010",
+  "campus_id": "5554057730675569",
+  "name": "Velia Price",
+  "email": "veliaprice@berkeley.edu",
+  "phone": "557-720-3387 x5881"
+},
+{
+  "student_id": "86965671019",
+  "campus_id": "9851797769193894",
+  "name": "Rachel Huels",
+  "email": "rachelhuels@berkeley.edu",
+  "phone": "847-253-6111"
+},
+{
+  "student_id": "29697523135",
+  "campus_id": "3885553057386130",
+  "name": "Krystyna Walker",
+  "email": "krystynawalker@berkeley.edu",
+  "phone": "382.513.3839"
+},
+{
+  "student_id": "48892524873",
+  "campus_id": "6478236472166804",
+  "name": "Miguel Runolfsson",
+  "email": "miguelrunolfsson@berkeley.edu",
+  "phone": "949.792.4318"
+},
+{
+  "student_id": "99895230394",
+  "campus_id": "5588196665306131",
+  "name": "Cathryn Stracke",
+  "email": "cathrynstracke@berkeley.edu",
+  "phone": "1-566-314-0680"
+},
+{
+  "student_id": "31206512868",
+  "campus_id": "6135713211735693",
+  "name": "Ozella Corkery",
+  "email": "ozellacorkery@berkeley.edu",
+  "phone": "1-951-923-5719 x18074"
+},
+{
+  "student_id": "62334218117",
+  "campus_id": "6616554985293054",
+  "name": "Noble Quigley",
+  "email": "noblequigley@berkeley.edu",
+  "phone": "(621) 162-5800 x479"
+},
+{
+  "student_id": "37523734233",
+  "campus_id": "7596630169205275",
+  "name": "Kyle Heidenreich",
+  "email": "kyleheidenreich@berkeley.edu",
+  "phone": "465.536.2300"
+},
+{
+  "student_id": "61183854939",
+  "campus_id": "1987356713463888",
+  "name": "Jefferey Watsica",
+  "email": "jeffereywatsica@berkeley.edu",
+  "phone": "785-292-4540 x90738"
+},
+{
+  "student_id": "32978254929",
+  "campus_id": "9844832432808902",
+  "name": "Dallas Langworth",
+  "email": "dallaslangworth@berkeley.edu",
+  "phone": "1-950-858-9062 x2488"
+},
+{
+  "student_id": "58349294817",
+  "campus_id": "7262045660104538",
+  "name": "Elias Schaden",
+  "email": "eliasschaden@berkeley.edu",
+  "phone": "1-455-416-2712"
+},
+{
+  "student_id": "34145626486",
+  "campus_id": "2129016268955378",
+  "name": "Charlie Waelchi",
+  "email": "charliewaelchi@berkeley.edu",
+  "phone": "1-361-647-1896 x4843"
+},
+{
+  "student_id": "24673038029",
+  "campus_id": "4475604349256710",
+  "name": "Susan McDermott",
+  "email": "susanmcdermott@berkeley.edu",
+  "phone": "194.068.0236 x67100"
+},
+{
+  "student_id": "36901015185",
+  "campus_id": "2081028601539979",
+  "name": "Roland Schultz",
+  "email": "rolandschultz@berkeley.edu",
+  "phone": "1-897-077-6608 x326"
+},
+{
+  "student_id": "19755092723",
+  "campus_id": "9535399923616143",
+  "name": "Chang Pacocha",
+  "email": "changpacocha@berkeley.edu",
+  "phone": "723.405.6640"
+},
+{
+  "student_id": "50639083656",
+  "campus_id": "3780295523728316",
+  "name": "Irwin Halvorson",
+  "email": "irwinhalvorson@berkeley.edu",
+  "phone": "568-942-1569"
+},
+{
+  "student_id": "81412441320",
+  "campus_id": "2742536826678023",
+  "name": "Monica Thiel",
+  "email": "monicathiel@berkeley.edu",
+  "phone": "148-987-1767 x6889"
+},
+{
+  "student_id": "83134146616",
+  "campus_id": "2897364841446494",
+  "name": "Omer Schmitt",
+  "email": "omerschmitt@berkeley.edu",
+  "phone": "(426) 460-4326 x921"
+},
+{
+  "student_id": "97418318926",
+  "campus_id": "8844166842461262",
+  "name": "Siobhan Wintheiser",
+  "email": "siobhanwintheiser@berkeley.edu",
+  "phone": "1-611-813-0100 x499"
+},
+{
+  "student_id": "26584093278",
+  "campus_id": "4832343311319291",
+  "name": "Denese Feeney",
+  "email": "denesefeeney@berkeley.edu",
+  "phone": "774-080-9029 x20094"
+},
+}

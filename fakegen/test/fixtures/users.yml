@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [student_id: 1
+  campus_id: 1
+  name: MyString
+  email: MyString
+  phone: 
+
+two:
+  [student_id: 1
+  campus_id: 1
+  name: MyString
+  email: MyString
+  phone: 
