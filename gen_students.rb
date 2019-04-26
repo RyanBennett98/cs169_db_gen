@@ -13,7 +13,6 @@ File.open(path_to_write, "w") do |f|
     first_name = Faker::Name.first_name
     last_name = Faker::Name.last_name
     temp_student_hash = {
-      "id" => "%03d" % [id],
       "student_id" => Faker::Number.number(11),
       "campus_id" => Faker::Number.number(16),
       "name" =>  first_name + " " + last_name,
