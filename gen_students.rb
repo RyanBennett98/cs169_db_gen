@@ -1,38 +1,33 @@
 require 'json'
 require 'faker'
 
-#Number of fake students to generate
 num_students = 100
-
-#ID variable could be useful if you need to track individual students
-#Currently not used in the JSON file
 id = 0
 
-#File where the data will be written
 path_to_write = "fake/students.json"
 
-#If there is no fake directory, we need to make one
 Dir.mkdir("fake") unless File.exists?("fake/")
-
 File.open(path_to_write, "w") do |f|
   while id < num_students
     # Generate student data
     first_name = Faker::Name.first_name
     last_name = Faker::Name.last_name
-    #Hash of a student, used to make a JSON object
-    temp_student_hash = {
-      "student_id" => Faker::Number.unique.number(11),
-      "campus_id" => Faker::Number.unique.number(16),
-      "name" =>  first_name + " " + last_name,
-      "first_name" => first_name,
-      "last_name" => last_name,
-      "email" => first_name.downcase + last_name.downcase.gsub("'", "") + "@berkeley.edu",
-      "phone" => Faker::PhoneNumber.phone_number
-      # Any other attributes can be added here
+    temp_student_hash = {     
+      "UC_SRCH_CRIT" => first_name + " " + last_name,
+      "STUDENT_ID" => Faker::Number.number(11),
+      "CAMPUS_ID" => Faker::Number.number(30), 
+      "OPRID" => Faker::Number.number(30),
+      "LAST_NAME" =>  last_name,
+      "FIRST_NAME" =>  first_name,
+      "MIDDLE_NAME" =>  Faker::Name.middle_name,
+      "UC_PRF_FIRST_NM" =>  Faker::Name.first_name,
+      "UC_PRF_MIDDLE_NM" =>  Faker::Name.middle_name,
+      "EMAIL_ADDR" => first_name.downcase + last_name.downcase.gsub("'", "") + "@berkeley.edu",
+      "ACAD_PROG" => Faker::Job.education_level
     }
-    #Student hash is written to the JSON file
     f.write(JSON.pretty_generate(temp_student_hash))
     f.write("\n")
     id += 1
   end
 end
+
