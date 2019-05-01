@@ -5,23 +5,21 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-require 'faker'
+require 'json'
+src = "fake/students.json"
 
-num_students = 100
+s_arr = JSON.parse(File.read(src))
 
-num_students.times do
-  first_name = Faker::Name.first_name
-  last_name = Faker::Name.last_name
-  middle_name = Faker::Name.middle_name
-  User.create!(UC_SRCH_CRIT: first_name + " " + last_name,
-               STUDENT_ID: Faker::Number.unique.number(11),
-               CAMPUS_ID: Faker::Number.unique.number(30),
-               OPRID: Faker::Number.unique.number(30),
-               LAST_NAME:  last_name,
-               FIRST_NAME:  first_name,
-               MIDDLE_NAME:  middle_name,
-               UC_PRF_FIRST_NM:  first_name,
-               UC_PRF_MIDDLE_NM:  middle_name,
-               EMAIL_ADDR: first_name.downcase + last_name.downcase.gsub("'", "") + "@berkeley.edu",
-               ACAD_PROG: Faker::Job.education_level)
+s_arr.each do |student|
+  User.create!(UC_SRCH_CRIT: student["UC_SRCH_CRIT"],
+               STUDENT_ID: student["STUDENT_ID"],
+               CAMPUS_ID: student["CAMPUS_ID"],
+               OPRID: student["OPRID"],
+               LAST_NAME:  student["LAST_NAME"],
+               FIRST_NAME:  student["FIRST_NAME"],
+               MIDDLE_NAME:  student["MIDDLE_NAME"],
+               UC_PRF_FIRST_NM:  student["UC_PRF_FIRST_NM"],
+               UC_PRF_MIDDLE_NM:  student["UC_PRF_MIDDLE_NM"],
+               EMAIL_ADDR: student["EMAIL_ADDR"],
+               ACAD_PROG: student["ACAD_PROG"]
 end
