@@ -21,5 +21,5 @@ s_arr.each do |student|
                UC_PRF_FIRST_NM:  student["UC_PRF_FIRST_NM"],
                UC_PRF_MIDDLE_NM:  student["UC_PRF_MIDDLE_NM"],
                EMAIL_ADDR: student["EMAIL_ADDR"],
-               ACAD_PROG: student["ACAD_PROG"]
+               ACAD_PROG: student["ACAD_PROG"])
 end
