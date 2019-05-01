@@ -6,7 +6,7 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 require 'json'
-src = "fake/students.json"
+src = "db/fake/students.json"
 
 s_arr = JSON.parse(File.read(src))
 
@@ -23,3 +23,5 @@ s_arr.each do |student|
                EMAIL_ADDR: student["EMAIL_ADDR"],
                ACAD_PROG: student["ACAD_PROG"])
 end
+
+p "Created Users table"
