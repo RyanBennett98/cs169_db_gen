@@ -5,16 +5,23 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-require 'faker'
+require 'json'
+src = "db/fake/students.json"
 
-num_students = 100
+s_arr = JSON.parse(File.read(src))
 
-num_students.times do
-  first_name = Faker::Name.first_name
-  last_name = Faker::Name.last_name
-  User.create!(student_id: Faker::Number.number(11),
-               campus_id: Faker::Number.number(16),
-               name: first_name + " " + last_name,
-               email: first_name.downcase + last_name.downcase.gsub("'", "") + "@berkeley.edu",
-               phone: Faker::PhoneNumber.phone_number)
+s_arr.each do |student|
+  User.create!(UC_SRCH_CRIT: student["UC_SRCH_CRIT"],
+               STUDENT_ID: student["STUDENT_ID"],
+               CAMPUS_ID: student["CAMPUS_ID"],
+               OPRID: student["OPRID"],
+               LAST_NAME:  student["LAST_NAME"],
+               FIRST_NAME:  student["FIRST_NAME"],
+               MIDDLE_NAME:  student["MIDDLE_NAME"],
+               UC_PRF_FIRST_NM:  student["UC_PRF_FIRST_NM"],
+               UC_PRF_MIDDLE_NM:  student["UC_PRF_MIDDLE_NM"],
+               EMAIL_ADDR: student["EMAIL_ADDR"],
+               ACAD_PROG: student["ACAD_PROG"])
 end
+
+p "Created Users table"
