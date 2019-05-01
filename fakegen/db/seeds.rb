@@ -12,9 +12,16 @@ num_students = 100
 num_students.times do
   first_name = Faker::Name.first_name
   last_name = Faker::Name.last_name
-  User.create!(student_id: Faker::Number.number(11),
-               campus_id: Faker::Number.number(16),
-               name: first_name + " " + last_name,
-               email: first_name.downcase + last_name.downcase.gsub("'", "") + "@berkeley.edu",
-               phone: Faker::PhoneNumber.phone_number)
+  middle_name = Faker::Name.middle_name
+  User.create!(UC_SRCH_CRIT: first_name + " " + last_name,
+               STUDENT_ID: Faker::Number.unique.number(11),
+               CAMPUS_ID: Faker::Number.unique.number(30),
+               OPRID: Faker::Number.unique.number(30),
+               LAST_NAME:  last_name,
+               FIRST_NAME:  first_name,
+               MIDDLE_NAME:  middle_name,
+               UC_PRF_FIRST_NM:  first_name,
+               UC_PRF_MIDDLE_NM:  middle_name,
+               EMAIL_ADDR: first_name.downcase + last_name.downcase.gsub("'", "") + "@berkeley.edu",
+               ACAD_PROG: Faker::Job.education_level)
 end

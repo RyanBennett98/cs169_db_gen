@@ -14,13 +14,19 @@
 ActiveRecord::Schema.define(version: 20190426053345) do
 
   create_table "users", force: :cascade do |t|
-    t.integer  "student_id", limit: 8
-    t.integer  "campus_id",  limit: 8
-    t.string   "name"
-    t.string   "email"
-    t.string   "phone"
-    t.datetime "created_at",           null: false
-    t.datetime "updated_at",           null: false
+    t.string   "UC_SRCH_CRIT"
+    t.integer  "STUDENT_ID",       limit: 16
+    t.integer  "CAMPUS_ID",        limit: 16
+    t.integer  "OPRID",            limit: 16
+    t.string   "LAST_NAME"
+    t.string   "FIRST_NAME"
+    t.string   "MIDDLE_NAME"
+    t.string   "UC_PRF_FIRST_NM"
+    t.string   "UC_PRF_MIDDLE_NM"
+    t.string   "EMAIL_ADDR"
+    t.string   "ACAD_PROG"
+    t.datetime "created_at",                  null: false
+    t.datetime "updated_at",                  null: false
   end
 
 end
