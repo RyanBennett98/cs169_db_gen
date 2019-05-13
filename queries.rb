@@ -52,11 +52,11 @@ module EdoOracle
 
     def self.get_stubbed_response(qid)
       result = safe_query <<-SQL
-       SELECT response
-       FROM test_response_data
-       WHERE qid = '#{qid}'
+       SELECT RESPONSE
+       FROM SISEDO.STUBBED_RESPONSES
+       WHERE QID = '#{qid}'
       SQL
-      result
+      result.first
     end
 
     def self.where_course_term
