@@ -56,7 +56,7 @@ module EdoOracle
        FROM SISEDO.STUBBED_RESPONSES
        WHERE QID = '#{qid}'
       SQL
-      result.first
+      result.first["response"]
     end
 
     def self.where_course_term
